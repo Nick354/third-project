@@ -10,4 +10,4 @@
 3. Технологию БЭМ.
 
 
-Адрес сайта: [Путешествия по России](https://nick354.github.io/third-project)
+Адрес сайта: [Путешествия по России](https://nick354.github.io/third--project/index.html)
